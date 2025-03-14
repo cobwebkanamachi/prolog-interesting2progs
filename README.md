@@ -24,7 +24,7 @@ To run :
    Ps = [2, 3, 5, 7, 11, 13, 17, 19, 23|...].
 
 Sorry No warranty...(mistyped or ...misunderstanding??)
-Ubuntu 22.04.3 LTS / SWI-Prolog version 8.4.2 for x86_64-linux
+Ubuntu 22.04.3 LTS (WSL2) / SWI-Prolog version 8.4.2 for x86_64-linux
 </PRE>   
 Enjoy!
 
